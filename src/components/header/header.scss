@@ -1,0 +1,29 @@
+.wrapper-box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    .header-box{
+        display: flex;
+        gap: 70px;
+    }
+    .select{
+        display: flex;
+        gap: 5px;
+        border: none;
+        background: none;
+      
+        .header-select{
+            border: none;
+            background: none;
+    }
+ .option{
+    font-family: Montserrat;
+font-size: 15px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+
+ }
+    }
+}

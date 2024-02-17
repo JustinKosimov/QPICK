@@ -1,0 +1,21 @@
+.wrapper-usloviya{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-top: 30px;
+    .card1{
+        width: 1107px;
+height: 162px;
+background: white;
+border-radius: 30px;
+padding: 15px;
+
+        .card1-title{
+margin-left: 10px;
+        }
+        .card1-subtitle{
+margin-top: 15px;
+margin-left: 10px;
+        }
+    }
+}

@@ -1,0 +1,35 @@
+.wrapper-kontakti{
+    display: flex;
+margin-left: 90px;
+    .right-card1{
+        width: 97px;
+        height: 97px;
+        background: white;
+        border-radius: 30px;
+     margin-top: 20px;
+     margin-left: 20px;
+      
+        .right-card-img1{
+            margin-left:27px;
+            margin-top: 27px;
+        }
+        .right-card-img2{
+            margin-left:17px;
+            margin-top: 27px;
+        }
+        .right-card-img3{
+            margin-left:27px;
+            margin-top: 27px;
+        }
+        .right-card-img4{
+            margin-left:22px;
+            margin-top: 22px;
+        }
+    }
+}
+.card-bottom{
+    display: flex;
+    gap: 20px;
+    margin-left: 120px;
+    margin-top: 15px;
+}
