@@ -19,7 +19,7 @@ function Footer() {
         <img className='footer-logo' src={FooterLogo} alt="" />
         <ul className='footer-list'>
             <li className='footer-item'>
-                <a className='footer-link' href="#">Избранное</a>
+                <NavLink to={"/oformlenya-page"} className='footer-link' href="#">Избранное</NavLink>
             </li>
             <li className='footer-item'>
                 <NavLink to={"/karzina-page"} className='footer-link' href="#">Корзина</NavLink >
