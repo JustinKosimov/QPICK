@@ -23,7 +23,7 @@ function App() {
 <Route path="/usloviya-page" element={<UsloviyaPage/>}/>
 <Route path="/kontakti-page" element={<KontaktiPage/>}/>
 <Route path="/karzina-page" element={<SctionKarzina/>}/>
-<Route path="/oformlenya-page" element={<SctionOformlenya/>}/>
+{/* <Route path="/oformlenya-page" element={<SctionOformlenya/>}/> */}
     </Routes>
 
   )
